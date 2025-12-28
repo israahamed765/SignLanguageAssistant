@@ -1,8 +1,9 @@
-"homepage": "https://israahamed765.github.io/SignLanguageAssistant",
+
 
 {
   "name": "-",
   "private": true,
+  "homepage": "https://israahamed765.github.io/SignLanguageAssistant",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
